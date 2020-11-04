@@ -28,4 +28,6 @@ In this challenge, you will design the tables to hold data in the CSVs, import t
 
 -List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
+-In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+
 
