@@ -9,3 +9,7 @@ In this challenge, you will design the tables to hold data in the CSVs, import t
 -Data Engineering
 
 -Data Analysis
+
+*Tasks*
+
+Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints. Be sure to create tables in the correct order to handle foreign keys.
