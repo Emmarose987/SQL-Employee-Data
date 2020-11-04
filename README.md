@@ -20,5 +20,7 @@ In this challenge, you will design the tables to hold data in the CSVs, import t
 
 -List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
 
+-List the department of each employee with the following information: employee number, last name, first name, and department name.
+
 
 
