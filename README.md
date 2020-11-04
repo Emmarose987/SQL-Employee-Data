@@ -26,4 +26,6 @@ In this challenge, you will design the tables to hold data in the CSVs, import t
 
 -List all employees in the Sales department, including their employee number, last name, first name, and department name.
 
+-List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
+
 
