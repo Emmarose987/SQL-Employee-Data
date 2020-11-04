@@ -22,5 +22,7 @@ In this challenge, you will design the tables to hold data in the CSVs, import t
 
 -List the department of each employee with the following information: employee number, last name, first name, and department name.
 
+-List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
+
 
 
