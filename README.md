@@ -14,6 +14,7 @@ In this challenge, you will design the tables to hold data in the CSVs, import t
 
 -Use the information you have to create a table schema for each of the six CSV files. 
 
+-Import each CSV file into the corresponding SQL table. 
 
 -List first name, last name, and hire date for employees who were hired in 1986.
 
